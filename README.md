@@ -1,3 +1,6 @@
+#READ ME:#
+
+
 This is a tic-tac-toe application where you could invite other players, player with friends and manage the game as a admin.
 
 To run the project
